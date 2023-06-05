@@ -1,0 +1,24 @@
+referencia: https://www.python.org/
+a linguagem de python é a linguagem mais aclamada e popular dentre os programadores hoje em dia, ela é utilizada para programação de aplicativos e sites e é dada como uma linguagem de introdução por sua simplicidade e eficiencia.
+
+referencia: https://git-scm.com/
+O Git é um sistema de controle de versão de código aberto projetado para lidar com todos os tipos de problema, desde projetos pequenos a muito grandes com muita velocidade e eficácia.
+
+referencia: https://code.visualstudio.com/
+O Vscode, é onde tudo acontece, um software dedicado a programadores criarem seus códigos de forma mais rapida e simples, tendo espaço para plugins e ferramentas de ajuda.
+
+referencia: https://sqlitebrowser.org/
+O Sqlite é uma ferramenta de código aberta destinada a criar desings e editar códigos, organizar e meio de pesquisa para seu código em um só aplicativo, tornando o muito mais simples e prático.
+
+referencia: https://www.mozilla.org/en-GB/firefox/developer/
+Os navegadores mais populares criaram suas versoes para programadores para poderem facilitar as buscas focadas em suas dúvidas e disponibilizar ferramentas e instruir o programador na resolução de problemas, muitas vezes disponibilizando o código do próprio aplicativo para estudos.
+
+A linguagem de python é uma das mais utilizadas dentro da programação web, muito popular em telas de Login, suporte e menu.
+
+O git é um espaço para discutir e  aprender de forma conjunta, ótimo para o aprendizado dentro de sala de aula
+
+o Vscode é a principal ferramenta de trabalho do programador, tambem utilizada para a prender dentro da sala de aula do professor Mangeli
+
+O sqlite é um meio de programação compacto e eficiente, disponibilizando todas as ferramentas em um aplicativo só, ajudando na eficiencia para desenvolvimento de sites que necessitam de modelagem e teste repetidamente
+
+O mozilla for developers é uma ótima ferramenta para aprendizado e resolução de problemas, auxiliando na construção do código
